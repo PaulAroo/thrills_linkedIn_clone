@@ -8,4 +8,4 @@ Built with:
 
 
 ### Continued development
-- [] set up seperate routes for sign-up and login pages
+- [ ] set up seperate routes for sign-up and login pages
